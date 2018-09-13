@@ -5,7 +5,7 @@
 [Citrus](https://www.citrusframework.org/) is a testing tool focusing on the EAI domain, that enables the test team to define whole use case tests to be executed fully automated. 
 Incoming and outgoing messages are predefined in the test case. The tester defines a message flow as it is designed for 
 a use case. All surrounding interface partners are simulated regardless their transport protocols (Http, JMS, TCP/IP, 
-SOAP, and many more). 
+SOAP, and many more)...
 
 [Camunda](https://camunda.org/) is an open source platform for workflow and business process management. Process are modeled using BPMN and executed
 directly unsing the Camunda engine. As BPMN process interact with a broad spectrum of services realized in different technologies
