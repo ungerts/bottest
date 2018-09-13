@@ -16,7 +16,7 @@ to a Jar file.
 
 ### Create Person Process ###
 
-We use a simplifyed Create Person Process to demonstrate how Citrus can help testing process implementations.
+We use a simplifyed Create Person Process to demonstrate how Citrus can help testing process implementations...
 
 ![Create Person Process](./doc/CreatePersonProcess.svg)
 
