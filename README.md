@@ -34,6 +34,7 @@ docker run -it --rm --name camunda-swarm -v "$(pwd)":/usr/src/mymaven -w /usr/sr
 ```
 
 ### Building the Docker Container ###
+TODO
 
 ```
 mvn clean verify -Pdocker
