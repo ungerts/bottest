@@ -24,7 +24,7 @@ We use a simplifyed Create Person Process to demonstrate how Citrus can help tes
 Execute the test locally:
 
 ```
-mvn clean verify
+mvn clean verify -DskipTests
 ```
 
 The test can also be executed within a Docker container:
