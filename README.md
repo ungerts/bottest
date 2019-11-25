@@ -33,8 +33,3 @@ The test can also be executed within a Docker container:
 docker run -it --rm --name camunda-swarm -v "$(pwd)":/usr/src/mymaven -w /usr/src/mymaven maven:latest mvn clean verify
 ```
 
-### Building the Docker Container ###
-
-```
-mvn clean verify -Pdocker
-```
